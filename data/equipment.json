@@ -1,0 +1,180 @@
+{
+  "weapons": [
+   {
+    "id": 1,
+    "name": "Топорик",
+    "log_name": "Топориком",
+    "min_damage": 2.5,
+    "max_damage": 4.1,
+    "stamina_per_hit": 1.8
+  },
+  {
+    "id": 2,
+    "name": "Ножик",
+    "log_name": "Ножиком",
+    "min_damage": 1.2,
+    "max_damage": 2.5,
+    "stamina_per_hit": 1.3
+  },
+  {
+  "id": 3,
+  "name": "Ладошки",
+  "log_name": "Ладошкой",
+  "max_damage": 1,
+  "min_damage": 0.5,
+  "stamina_per_hit": 1
+  },
+    {
+  "id": 4,
+  "name": "Меч кладенец",
+  "log_name": "Мечом Кладенецом",
+  "max_damage": 3.0,
+  "min_damage": 2.0,
+  "stamina_per_hit": 2.0
+  },
+    {
+  "id": 5,
+  "name": "Дубина из черепов",
+  "log_name": "Дубиной из черепов",
+  "max_damage": 2.7,
+  "min_damage": 1.5,
+  "stamina_per_hit": 1.6
+  },
+    {
+  "id": 6,
+  "name": "Кастет",
+  "log_name": "Кастетом",
+  "max_damage": 2.0,
+  "min_damage": 1.0,
+  "stamina_per_hit": 1.2
+  },
+    {
+  "id": 7,
+  "name": "Бензопила",
+  "log_name": "Бензопилой",
+  "max_damage": 5.0,
+  "min_damage": 3.2,
+  "stamina_per_hit": 2.5
+  },
+    {
+  "id": 8,
+  "name": "Бита 'Нигана'",
+  "log_name": "Битой 'Нигана'",
+  "max_damage": 4.5,
+  "min_damage": 2.9,
+  "stamina_per_hit": 2.1
+  },
+  {
+  "id": 9,
+  "name": "Ножи-крючки 'Риддика'",
+  "log_name": "Ножами-крючками 'Риддика'",
+  "max_damage": 3.5,
+  "min_damage": 2.2,
+  "stamina_per_hit": 1.9
+  },
+  {
+  "id": 10,
+  "name": "Совковая лопата",
+  "log_name": "Совковой лопатой",
+  "max_damage": 3.1,
+  "min_damage": 1.9,
+  "stamina_per_hit": 2.2
+  },
+  {
+  "id": 11,
+  "name": "Копье",
+  "log_name": "Копьем",
+  "max_damage": 3.2,
+  "min_damage": 2.5,
+  "stamina_per_hit": 1.8
+  },
+  {
+  "id": 12,
+  "name": "Кистень",
+  "log_name": "Кистенью",
+  "max_damage": 3.8,
+  "min_damage": 2.2,
+  "stamina_per_hit": 2.3
+  }
+  ],
+  "armors": [
+  {
+    "id": 1,
+    "name": "Футболка",
+    "defence": 0,
+    "stamina_per_turn": 0
+    },
+    {
+    "id": 2,
+    "name":"Кожаная броня",
+    "defence": 1.2,
+    "stamina_per_turn": 1
+    },
+    {
+    "id": 3,
+    "name": "Панцирь",
+    "defence": 2.0,
+    "stamina_per_turn": 1.6
+    },
+    {
+    "id": 4,
+    "name": "Костяная броня",
+    "defence": 1.8,
+    "stamina_per_turn": 1.4
+    },
+    {
+    "id": 5,
+    "name": "Бабушкин свитер",
+    "defence": 0.6,
+    "stamina_per_turn": 0.5
+    },
+    {
+    "id": 6,
+    "name": "Скафандр",
+    "defence": 2.2,
+    "stamina_per_turn": 2.5
+    },
+    {
+    "id": 7,
+    "name": "Фуфайка",
+    "defence": 1.0,
+    "stamina_per_turn": 1.2
+    },
+    {
+    "id": 8,
+    "name": "Мото 'черепаха'",
+    "defence": 1.4,
+    "stamina_per_turn": 1.2
+    },
+    {
+    "id": 9,
+    "name": "Кольчуга",
+    "defence": 1.9,
+    "stamina_per_turn": 2.5
+    },
+    {
+    "id": 10,
+    "name": "Стеганый доспех",
+    "defence": 1.5,
+    "stamina_per_turn": 1.7
+    },
+    {
+    "id": 11,
+    "name": "Чешуйчатый доспех",
+    "defence": 1.7,
+    "stamina_per_turn": 2.0
+    },
+        {
+    "id": 12,
+    "name": "Ламелляр",
+    "defence": 1.9,
+    "stamina_per_turn": 2.2
+    },
+        {
+    "id": 13,
+    "name": "Латы",
+    "defence": 2.5,
+    "stamina_per_turn": 3.5
+    }
+  ]
+}
